@@ -1,0 +1,26 @@
+.msn {
+    background-color: rgba(222, 194, 199, 0.2);
+    color: white;
+    margin: 0;
+    padding: 5px 10px;
+    line-height: 35px;
+}
+h1 {
+    position: relative ;
+    top: 250px;
+    color: rgb(211, 149, 159);
+    background-color: rgba(181, 201, 219, 0.1);
+}
+header {
+    background-image: url(./ss05-bai06-gif01.png);
+    width: 500px;
+    height: 300px;
+}
+
+section {
+    width: 500px;
+    height: auto;
+    background-color: rgb(207, 206, 204);
+    color: cornsilk;
+}
+

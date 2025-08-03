@@ -1,0 +1,26 @@
+
+header {
+    background-image: url(./OIP\ \(1\).webp);
+    width: 400px;
+    height: 450px;
+    padding: 20px;
+    color: rgb(94, 13, 134);
+    border-radius: 10%;
+}
+
+a {
+    text-decoration: none;
+}
+
+.illo {
+    background-color: rgba(119, 34, 162, 0.2);
+}
+
+div {
+    position: relative;
+    top: 300px;
+}
+
+
+
+

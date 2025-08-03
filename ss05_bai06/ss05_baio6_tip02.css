@@ -1,0 +1,40 @@
+header {
+    background-image: url(./wp5609985.jpg);
+    width: 400px;
+    height: 450px;
+    padding: 20px;
+    color: rgb(103, 30, 30);
+}
+
+button {
+    background-color: rgb(89, 89, 106);
+    color: azure;
+    border-radius: 10%;
+}
+div{
+    position: relative;
+    top: 100px;
+}
+
+div:hover {
+    background-color: rgba(140, 146, 157, 0.1);
+}
+
+.static button {
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    margin: 10px;
+    background-color: rgba(68, 70, 72, 0.1);
+    border: 1px solid rgb(242, 243, 242);
+    border-radius: 20%;
+    position: relative;
+    top: 200px;
+    left: 350px;
+}
+
+.static button:hover{
+    background-color: rgb(187, 187, 185, 0.2);
+    transform: scale(0.) ;
+    transition: 2s;
+}
