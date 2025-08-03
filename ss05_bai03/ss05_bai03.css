@@ -1,0 +1,29 @@
+button{
+        border: none;
+}
+a {
+    text-align: center;
+
+}
+
+a {
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+a:link{
+    background-color: beige;
+    color: black;
+}
+
+a:visited{
+    background-color: aqua;
+    color: aliceblue;
+}
+a:hover {
+    background-color: red;
+    color: beige;
+}
+
+
+
