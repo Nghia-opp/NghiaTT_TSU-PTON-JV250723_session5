@@ -1,0 +1,100 @@
+* {
+    margin: 10px;
+    font-family: "Pacifico", cursive;
+}
+
+.fade-in {
+    width: 150px;
+    height: 60px;
+    border: 10px solid rgb(217, 213, 213);
+    padding-top: 30px;
+    text-align: center;
+    background-color: rgb(216, 215, 215);
+    color: azure;
+}
+.fade-in:hover {
+    background-color: rgb(152, 157, 157);
+    transition: 1s;
+}
+
+.change-color {
+    width: 150px;
+    height: 60px;
+    border: 10px solid rgb(217, 213, 213);
+    padding-top: 30px;
+    text-align: center;
+    background-color: bisque;
+    color: azure;
+}
+.change-color:hover {
+    background-color: rgb(175, 220, 220);
+}
+
+.grow {
+    width: 150px;
+    height: 60px;
+    border: 10px solid rgb(217, 213, 213);
+    padding-top: 30px;
+    text-align: center;
+    background-color: rgb(51, 51, 51);
+    color: azure;
+}
+.grow:hover {
+    background-color: rgb(51, 51, 51);
+    border: none;
+    transform: scale(1);
+    border: 10px solid rgb(51, 51, 51);
+}
+
+.shirnk {
+    width: 150px;
+    height: 60px;
+    padding-top: 30px;
+    text-align: center;
+    background-color: rgb(51, 51, 51);
+    color: azure;
+}
+.shirnk:hover {
+    background-color: rgb(51, 51, 51);
+    transform: scale(0.7);
+}
+
+.rotate {
+    width: 150px;
+    height: 60px;
+    padding-top: 30px;
+    text-align: center;
+    background-color: rgb(51, 51, 51);
+    color: azure;
+}
+.rotate:hover {
+    background-color: rgb(51, 51, 51);
+    transform: rotate(-15deg);
+}
+
+.square{
+    width: 150px;
+    height: 60px;
+    border-radius: 50%;
+    padding-top: 30px;
+    text-align: center;
+    background-color: rgb(51, 51, 51);
+    color: azure;
+}
+.square:hover {
+    transition: 2s;
+    border-radius: 0%;
+}
+
+.inset-border{
+    width: 150px;
+    height: 60px;
+    padding-top: 30px;
+    text-align: center;
+    background-color: rgb(51, 51, 51);
+    color: azure;
+    border: 10px solid rgb(51, 51, 51);
+}
+.inset-border:hover {
+    border: 10px solid rgb(182, 120, 120);
+}
