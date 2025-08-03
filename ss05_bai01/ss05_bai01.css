@@ -1,0 +1,10 @@
+.submit {
+    width: 70px;
+    height: 30px;
+    text-align: center;
+    border-top: 3px solid red ;
+    border-right:  5px dotted rebeccapurple;
+    border-bottom: 3px double green;
+    border-left: 10px groove purple;
+    margin: 100px;
+}
